@@ -24,32 +24,17 @@ Performing analysis on city rides to uncover trends and discover findings to dri
 # Results
 
  ![PyBer Fare Summary](https://github.com/aimeeyen/pyber_analysis/blob/main/Resources/PyBer_fare_summary.png)
- - Highest performning month: May (Memorial and Mother's day) Also Feburary (Valentine)
- - Decline in success rate during School break: Spring, Summer, and Winter Break
- - Deline in success rate during Holiday season: 4th of July, Thanksgiving and Christmas
- - Low performing month Nov-Dec, maybe signifiy lower purchasing power during Holiday seasons
- - The two variances Failed and Successful Outcomes, are in positive correlation. 
+ - Urban cities: :arrow_up: supply and demand for rides, ***lower*** Average Fare per driver.
+ - Rural cities: :arrow_down: supply and demand for rides, ***higher*** Average Fare per driver.
  
  ![Total Fare by City Type](https://github.com/aimeeyen/pyber_analysis/blob/main/Resources/Total%20Fare%20by%20City%20Type.png)
- - Sucess rate tends to decreased as the fundraising goal inceases, hense a negative correlation 
- - At $15K, $35K and $44K have the equal percentage at around 50%.
- - After $45K goal, a steep decline of success rate
- - Between $35K to $45K, seemed to be the most stable performating goal setting.  
+ - Jan.2019 MLK holiday weekend, both Rural and Suburban cities have ***increased*** demand in rides, while Urban cities has ***decreased*** demand.  
+ - Feb.2019 Valentine's Day, In Rural cities, seems to be a ***decreased*** demand for rides, while Urbran and Suburan cities has ***increased*** demand. 
+ - Mar.2019 Spring Break, Suburban and Urban cities showed ***increased*** ride demand and steady slope for Rual cities.
  
-### - What are two conclusions you can draw about the Outcomes based on Launch Date?
-
-
-   - :white_check_mark: Summer season: May and June is the ***best*** time to launch campaign
-
-   - :x: Winter season: Dec - Feb is the ***worst*** time to launch campaign and in Jan has the ***highest*** canceled campaigns
-
-   - Both Failed and Successful campaign have positive correlations, signify that both variables were affected equally by the timing of launch date, seasonality: such as School break or Holiday season. 
-
-
 # Summary:
 
-  1. On setting Goals: Successful campaign, it's more **symmetic** distribution IQR vs Standard Deviation ($3,500 vs $7,749).
-  2. On setting Goals: Failed campaign, data distriution is **skewed**. IQR are rougly 3 times the Standard Deviation ($8,000 vs. $21,968) signify really high unmet goals.
-  3. On Successful Campaign's Mean Pledge are **closely aligned** with its Mean Goal ($5,602 vs $5,049)
-  4. On Failed Campaign's Mean Pledge are **far from** its Mean Goal ($559 vs $10,554)
+  1. In term of profitability, demand for rides in Suburban and Urban city seems to be closely aligned. Promote marketing strategies to engage driver to go to less density cities to supply its demand there.  
+  2. Looking at the summary, Average are per driver in Urban cities is $16.57, vs Rural cities $55.49. If supply of driver increase, might in term bring in more profit by increase it's supple of drivers. 
+  3. Suburban cities vs Ubran cities, average fare per driver is $39.50 vs $16.57, might be a incentive to promote more drivers to service the Suburban cities. 
 
