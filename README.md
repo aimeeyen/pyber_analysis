@@ -4,16 +4,22 @@ Resource File: [Ride Data](https://github.com/aimeeyen/pyber_analysis/blob/main/
                [City Data](https://github.com/aimeeyen/pyber_analysis/blob/main/Resources/city_data.csv)
 
 ## Overview of the analysis
-Performing analysis on city rides to uncover trends and discover findings to drive successful business decision for CEO. 
+Performing analysis on city rides to uncover trends and discover findings to drive successful decision-making for CEO. 
 
 ### Analysis 
-
  
  ![Bubble Chart](https://github.com/aimeeyen/pyber_analysis/blob/main/Resources/PyBer%20Ride-Sharing%20Data%20(2019).png)
  
+ - Greater demand for rides in Urbran positive correlation on number of drivers: Greater supply, lower the fares 
+ - Similarly Rural city, less the population, less the demand for rides possitive correlation on lower the drivers: Short supply, highter the fares. 
+
  ![Pie Charts](https://github.com/aimeeyen/pyber_analysis/blob/main/Resources/PyBer%20Data%20Pie%20Chart.png)
  
- ![Pie Charts](https://github.com/aimeeyen/pyber_analysis/blob/main/Resources/Ride%20Fare%20Data%20(2019).png)
+ -
+ -
+ 
+ 
+ ![Central Tendancy](https://github.com/aimeeyen/pyber_analysis/blob/main/Resources/Ride%20Fare%20Data%20(2019).png)
 
 
 # Results
