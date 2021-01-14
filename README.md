@@ -10,8 +10,8 @@ Performing analysis on city rides to uncover trends and discover findings to dri
  
  ![Bubble Chart](https://github.com/aimeeyen/pyber_analysis/blob/main/Resources/PyBer%20Ride-Sharing%20Data%20(2019).png)
  
- - :arrow_up: demand for rides in Urbran positive correlation :arrow_up: the drivers: :arrow_up: supply, :arrow_down: the fares 
- - Similarly Rural city, :arrow_down: the population, :arrow_down:the demand for rides negative correlation on :arrow_down: the drivers: :arrow_down: supply, :arrow_up: the fares. 
+ - :arrow_up:  demand for rides in Urbran positive correlation :arrow_up: the drivers: :arrow_up: supply, :arrow_down: the fares 
+ - Similarly Rural city, :arrow_down: the population, :arrow_down:  the demand for rides negative correlation on :arrow_down:  the drivers: :arrow_down:  supply, :arrow_up: the fares. 
 
  ![Pie Charts](https://github.com/aimeeyen/pyber_analysis/blob/main/Resources/PyBer%20Data%20Pie%20Chart.png)
  
