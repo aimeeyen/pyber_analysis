@@ -19,8 +19,8 @@ Performing analysis on city rides to uncover trends and discover findings to dri
  - Similarly, Rural city :arrow_down: the population, :arrow_down:  the demand for rides, account for ***smallest*** percentage of total fares, rides and drivers
   
  ![Central Tendancy](https://github.com/aimeeyen/pyber_analysis/blob/main/Resources/Ride%20Fare%20Data%20(2019).png)
-
-
+ - With above analysis, Rural cities have the ***highest*** mean per-ride fares due to lower population, supply and demand 
+ - In contrast Urban cities have the ***lowest*** mean per-ride fares due to higher population, supply and demand 
 # Results
 
  ![PyBer Fare Summary](https://github.com/aimeeyen/pyber_analysis/blob/main/Resources/PyBer_fare_summary.png)
