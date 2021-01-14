@@ -1,6 +1,5 @@
 # pyber_analysis
 
-# Kickstarting with Excel
 Resource File: [Ride Data](https://github.com/aimeeyen/pyber_analysis/blob/main/Resources/ride_data.csv)
                [City Data](https://github.com/aimeeyen/pyber_analysis/blob/main/Resources/city_data.csv)
 
@@ -42,9 +41,7 @@ Performing analysis on city rides to uncover trends and discover findings to dri
    - Both Failed and Successful campaign have positive correlations, signify that both variables were affected equally by the timing of launch date, seasonality: such as School break or Holiday season. 
 
 
-
 # Summary:
-![Descriptive Statistics](https://github.com/aimeeyen/kickstarter-analysis/blob/main/Descriptive%20Statistics.png)
 
   1. On setting Goals: Successful campaign, it's more **symmetic** distribution IQR vs Standard Deviation ($3,500 vs $7,749).
   2. On setting Goals: Failed campaign, data distriution is **skewed**. IQR are rougly 3 times the Standard Deviation ($8,000 vs. $21,968) signify really high unmet goals.
