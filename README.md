@@ -24,8 +24,8 @@ Performing analysis on city rides to uncover trends and discover findings to dri
 # Results
 
  ![PyBer Fare Summary](https://github.com/aimeeyen/pyber_analysis/blob/main/Resources/PyBer_fare_summary.png)
- - Urban cities: :arrow_up: supply and demand for rides, ***lower*** Average Fare per driver.
- - Rural cities: :arrow_down: supply and demand for rides, ***higher*** Average Fare per driver.
+ - Urban cities: :arrow_up: supply and demand for rides, ***lower*** average fare per driver.
+ - Rural cities: :arrow_down: supply and demand for rides, ***higher*** average fare per driver.
  
  ![Total Fare by City Type](https://github.com/aimeeyen/pyber_analysis/blob/main/Resources/Total%20Fare%20by%20City%20Type.png)
  - Jan.2019 MLK holiday weekend, both Rural and Suburban cities have ***increased*** demand in rides, while Urban cities has ***decreased*** demand.  
@@ -36,5 +36,5 @@ Performing analysis on city rides to uncover trends and discover findings to dri
 
   1. In term of profitability, demand for rides in Suburban and Urban city seems to be closely aligned. Promote marketing strategies to engage driver to go to less density cities to supply its demand there.  
   2. Looking at the summary, Average fare per driver in Urban cities is $16.57, vs Rural cities $55.49. If supply of driver increase, might in term bring in more profit by increase it's supply of drivers. 
-  3. Suburban cities vs Ubran cities, average fare per driver is $39.50 vs $16.57, might create incentive to promote more drivers to service the Suburban cities. 
+  3. Suburban cities vs Ubran cities, average fare per driver is $39.50 vs $16.57, good incentive to promote more drivers to service the Suburban cities especially if the area is under-served and demand are high while supply are low. 
 
