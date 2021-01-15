@@ -35,6 +35,6 @@ Performing analysis on city rides to uncover trends and discover findings to dri
 # Summary:
 
   1. In term of profitability, demand for rides in Suburban and Urban city seems to be closely aligned. Promote marketing strategies to engage driver to go to less density cities to supply its demand there.  
-  2. Looking at the summary, Average are per driver in Urban cities is $16.57, vs Rural cities $55.49. If supply of driver increase, might in term bring in more profit by increase it's supple of drivers. 
-  3. Suburban cities vs Ubran cities, average fare per driver is $39.50 vs $16.57, might be a incentive to promote more drivers to service the Suburban cities. 
+  2. Looking at the summary, Average fare per driver in Urban cities is $16.57, vs Rural cities $55.49. If supply of driver increase, might in term bring in more profit by increase it's supply of drivers. 
+  3. Suburban cities vs Ubran cities, average fare per driver is $39.50 vs $16.57, might create incentive to promote more drivers to service the Suburban cities. 
 
